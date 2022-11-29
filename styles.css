@@ -1,0 +1,26 @@
+#personajesData div {
+    margin: 1%;
+}
+body{
+    background: rgb(236, 234, 234);
+}
+
+#personajesData div div{
+    background: rgb(166, 222, 229);
+}
+
+#personajesData p{
+    color: darkblue;
+}
+
+#personajesData h5{
+    color: darkblue;
+}
+
+footer{
+    margin-bottom: 2%;
+}
+
+img{
+    border-radius: 10px;
+}
