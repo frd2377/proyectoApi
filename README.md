@@ -2,7 +2,7 @@
 
 #Consumiendo un api
 
-#link: frd2377.github.io/proyecto1
+#link: frd2377.github.io/proyectoApi
 
 
  
